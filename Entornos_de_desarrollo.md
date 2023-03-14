@@ -1,3 +1,4 @@
+![c85b9a156f0e3d2169565380b4b2d6aa](https://user-images.githubusercontent.com/114073072/224998617-b23b3838-830c-4c99-90d7-5576c4bc553a.gif)
 # Esta es la entrega de uno de los trabajos de entornos de desarrollo
 ## 1ºEvaluación
 - Planificación
@@ -22,5 +23,5 @@
 * https://es.wix.com/
 * https://platform.openai.com/overview
 ---------------------------------------
-
+![grogu-bye-bye-goodbye-grogu](https://user-images.githubusercontent.com/114073072/224999172-ed61430c-a84c-45f1-9521-71de72b37990.gif)
 
