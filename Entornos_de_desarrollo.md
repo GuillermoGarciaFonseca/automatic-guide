@@ -2,7 +2,9 @@
 # Esta es la entrega de uno de los trabajos de entornos de desarrollo
 ## 1ºEvaluación
 - Planificación
-
+*** Producto
+*** Historias del ususario
+*** Identificar objetivos
 ----------------------------------------------
 
 # Antes de iniciar el proceso de una crear una aplicación teneis que hacer una planificación
