@@ -1,23 +1,32 @@
 ![c85b9a156f0e3d2169565380b4b2d6aa](https://user-images.githubusercontent.com/114073072/224998617-b23b3838-830c-4c99-90d7-5576c4bc553a.gif)
 # Esta es la entrega de uno de los trabajos de entornos de desarrollo
-## 1ºEvaluación
-- Planificación
-*** Producto
-*** Historias del ususario
-*** Identificar objetivos
+## Como empezar una planificación para un proyecto
+### Producto Backlog
+### Sprint Backlog
+### Definir el mínimo producto viable
+### Increment
 ----------------------------------------------
-
 # Antes de iniciar el proceso de una crear una aplicación teneis que hacer una planificación
 * Página muy recomendada para ir gestionando las ideas
 * https://www.jesusninoc.com/10/24/proyectos-e-ideas-scrum-sobre-una-fundacion-artefactos-eventos-y-entregables/
 --------------------------------------------------
 # Aplicaciones para crear aplicaciones con mucha facilidad
 - Páginas webs recomendadas para las aplicaciones básicas
-** https://www.kodular.io/
-** https://www.appypie.com/es
-** https://www.appypie.com/es
-** https://appsgeyser.com/
------------------------------------------------------ 
+* https://www.kodular.io/
+* https://www.appypie.com/es
+* https://www.appypie.com/es
+* https://appsgeyser.com/
+-----------------------------------------------------
+# Para que puedas promocionarte si os interesa hacer videos estas aplicaciones recomendables
+* https://filmora.wondershare.net/es/editor-de-video/ad-filmora-o.html?gclid=Cj0KCQjw2cWgBhDYARIsALggUhr9CaUVxYaUAPBV5PM-avJWeCxm9_MeoP2qcieCIuuOd9sgyGVBaaMaAts7EALw_wcB
+* https://www.nchsoftware.com/videopad/es/index.html?ns=true&kw=videopad&gclid=Cj0KCQjw2cWgBhDYARIsALggUhpR6aRTKfOjBv2gTjkEfZTC_oC_botJFcewUTgUbu6qiwGcrJXXmKsaAkSZEALw_wcB
+* https://www.openshot.org/es/download/
+## Redes donde subirlo
+* https://www.tiktok.com/es/
+* https://twitter.com/home
+* https://www.reddit.com/
+* https://www.youtube.com/
+-----------------------------------------------------
 # Su uso es muy fácil y ayuda mucho
 * https://www.jesusninoc.com/
 * https://es.qr-code-generator.com/
@@ -45,4 +54,3 @@
 ![rey-aplausos](https://user-images.githubusercontent.com/114073072/225250745-f8323298-1430-4183-aeef-931d6c289248.gif)
 ---------------------------------------
 ![grogu-bye-bye-goodbye-grogu](https://user-images.githubusercontent.com/114073072/224999172-ed61430c-a84c-45f1-9521-71de72b37990.gif)
-
