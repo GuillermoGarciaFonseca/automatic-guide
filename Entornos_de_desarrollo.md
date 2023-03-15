@@ -34,7 +34,7 @@
 * ![Commons_QR_code](https://user-images.githubusercontent.com/114073072/225248823-f9b32e32-ca98-4130-b082-5692aedf6bcf.jpg)
 - Una pagina web creada
 * https://guillegarfon.wixsite.com/animal6peligroaustra
-![aplausos](https://user-images.githubusercontent.com/114073072/225250241-ad986de2-cf23-448b-9178-cb9ec5481ad3.gif)
+---------------------------------------------------------------------
 ![rey-aplausos](https://user-images.githubusercontent.com/114073072/225250745-f8323298-1430-4183-aeef-931d6c289248.gif)
 ---------------------------------------
 ![grogu-bye-bye-goodbye-grogu](https://user-images.githubusercontent.com/114073072/224999172-ed61430c-a84c-45f1-9521-71de72b37990.gif)
