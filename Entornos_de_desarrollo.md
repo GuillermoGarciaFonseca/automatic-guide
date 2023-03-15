@@ -38,6 +38,9 @@
 ## ![Commons_QR_code](https://user-images.githubusercontent.com/114073072/225248823-f9b32e32-ca98-4130-b082-5692aedf6bcf.jpg)
 - Una pagina web creada
 ## https://guillegarfon.wixsite.com/animal6peligroaustra
+- Automatizacion en powershell
+* Un proceso por el cual hace líneas automaticas en paint
+## ![Captura de pantalla 2023-03-15 102713 jpg](https://user-images.githubusercontent.com/114073072/225267133-4b10e933-c244-482d-a452-5b955bad491a.png)
 ---------------------------------------------------------------------
 ![rey-aplausos](https://user-images.githubusercontent.com/114073072/225250745-f8323298-1430-4183-aeef-931d6c289248.gif)
 ---------------------------------------
