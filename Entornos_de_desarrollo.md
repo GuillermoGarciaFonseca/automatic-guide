@@ -29,13 +29,13 @@
 - Texto generado por chatgtp
 ## ![para-que-sirve-GPT (1)](https://user-images.githubusercontent.com/114073072/225247941-3d873855-9207-49f7-adfb-2fa228c724f9.jpg)
 - Imagen creada por chatgtp
-* ![2023-03-1509 11 12Planetas](https://user-images.githubusercontent.com/114073072/225248052-d400f149-5cea-4b89-a61a-2d7f3779c870.jpg)
+## ![2023-03-1509 11 12Planetas](https://user-images.githubusercontent.com/114073072/225248052-d400f149-5cea-4b89-a61a-2d7f3779c870.jpg)
 - Un logo creado
-* ![Logotipo 500x500 px](https://user-images.githubusercontent.com/114073072/225248456-b53f99cd-0e34-427b-8f4c-9e47b6208a14.jpeg)
+## ![Logotipo 500x500 px](https://user-images.githubusercontent.com/114073072/225248456-b53f99cd-0e34-427b-8f4c-9e47b6208a14.jpeg)
 - Un codigoQr creado
-* ![Commons_QR_code](https://user-images.githubusercontent.com/114073072/225248823-f9b32e32-ca98-4130-b082-5692aedf6bcf.jpg)
+## ![Commons_QR_code](https://user-images.githubusercontent.com/114073072/225248823-f9b32e32-ca98-4130-b082-5692aedf6bcf.jpg)
 - Una pagina web creada
-* https://guillegarfon.wixsite.com/animal6peligroaustra
+## https://guillegarfon.wixsite.com/animal6peligroaustra
 ---------------------------------------------------------------------
 ![rey-aplausos](https://user-images.githubusercontent.com/114073072/225250745-f8323298-1430-4183-aeef-931d6c289248.gif)
 ---------------------------------------
