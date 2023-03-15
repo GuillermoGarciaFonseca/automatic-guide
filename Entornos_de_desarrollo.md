@@ -17,7 +17,7 @@
 * https://www.appypie.com/es
 * https://appsgeyser.com/
 -----------------------------------------------------
-# Para que puedas promocionarte si os interesa hacer videos estas aplicaciones recomendables
+## Para que puedas promocionarte si os interesa hacer videos estas aplicaciones recomendables
 * https://filmora.wondershare.net/es/editor-de-video/ad-filmora-o.html?gclid=Cj0KCQjw2cWgBhDYARIsALggUhr9CaUVxYaUAPBV5PM-avJWeCxm9_MeoP2qcieCIuuOd9sgyGVBaaMaAts7EALw_wcB
 * https://www.nchsoftware.com/videopad/es/index.html?ns=true&kw=videopad&gclid=Cj0KCQjw2cWgBhDYARIsALggUhpR6aRTKfOjBv2gTjkEfZTC_oC_botJFcewUTgUbu6qiwGcrJXXmKsaAkSZEALw_wcB
 * https://www.openshot.org/es/download/
