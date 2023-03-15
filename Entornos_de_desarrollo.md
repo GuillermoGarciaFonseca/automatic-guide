@@ -27,7 +27,7 @@
 ---------------------------------------
 # Ejemplos 
 - Texto generado por chatgtp
-* ![para-que-sirve-GPT (1)](https://user-images.githubusercontent.com/114073072/225247941-3d873855-9207-49f7-adfb-2fa228c724f9.jpg)
+## ![para-que-sirve-GPT (1)](https://user-images.githubusercontent.com/114073072/225247941-3d873855-9207-49f7-adfb-2fa228c724f9.jpg)
 - Imagen creada por chatgtp
 * ![2023-03-1509 11 12Planetas](https://user-images.githubusercontent.com/114073072/225248052-d400f149-5cea-4b89-a61a-2d7f3779c870.jpg)
 - Un logo creado
